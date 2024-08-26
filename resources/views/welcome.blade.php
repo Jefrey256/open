@@ -3,7 +3,7 @@
 <head>
   <style>
     body {
-      background-color: red;
+      background-color: green;
     }
   </style>
     <meta charset="utf-8">
