@@ -15,6 +15,7 @@
     @include('layouts.navbar')
     
     <div class="container mx-auto mt-10 flex-grow">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero adipisci aspernatur nesciunt tenetur cumque tempora magnam? Reiciendis, facere ipsa aliquid, nihil minima repellendus assumenda aut incidunt quam perferendis odit cumque.</p>
         <h1 class="text-cor5 text-4xl font-bold text-center mt-10">testando</h1>
         <h3 style=" color: red background-color: green">picghjrsu6 yehyo</h3>
         <p class="text-center mt-4">Este é um exemplo de menu hambúrguer utilizando Tailwind CSS.</p>
