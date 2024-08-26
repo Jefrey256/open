@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h3>fds</h3>
 <h1>ola muindo </h1>
 <a href="{{url('/')}}" class="block py-2 lg:py-0 text-cor1"><button class="bg-cor-3">Home</button></a>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque minus esse facilis reprehenderit, dolor neque sequi, natus accusantium, ut necessitatibus tenetur! Delectus fugit, voluptatem unde maxime sequi ab. Iusto, expedita!lo</p>
