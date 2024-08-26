@@ -6,11 +6,12 @@
     <title>Laravel</title>
     @vite('resources/css/app.css')
 </head>
-<body class="bg-cor3 dark:bg-slate-800 text-cor4 flex flex-col min-h-screen" id="body">
+<body class="bg-red-100 dark:bg-slate-800 text-cor4 flex flex-col min-h-screen" id="body">
     @include('layouts.navbar')
     
     <div class="container mx-auto mt-10 flex-grow">
-        <h1 class="text-cor5 text-4xl font-bold text-center mt-10">Pega no meu saco</h1>
+        <h1 class="text-cor5 text-4xl font-bold text-center mt-10">testando</h1>
+        <h3 style=" color: red background-color: green">picghjrsu6 yehyo</h3>
         <p class="text-center mt-4">Este é um exemplo de menu hambúrguer utilizando Tailwind CSS.</p>
         
         <div>
