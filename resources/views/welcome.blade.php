@@ -9,7 +9,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Laravel</title>
-    <link rel="stylesheet" href="../css/app.css">
     @vite('resources/css/app.css')
 </head>
 <body class="bg-red-100 dark:bg-slate-800 text-cor4 flex flex-col min-h-screen" id="body">
